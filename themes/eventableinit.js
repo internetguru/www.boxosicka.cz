@@ -1,1 +1,1 @@
-require("IGCMS.Eventable",function(){if(IGCMS.Eventable.debug){IGCMS.Eventable.init({})}});
+require("IGCMS.Eventable",function(){IGCMS.Eventable.init({})});
