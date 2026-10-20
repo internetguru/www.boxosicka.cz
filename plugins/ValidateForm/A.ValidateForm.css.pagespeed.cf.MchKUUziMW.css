@@ -1,0 +1,2 @@
+dd.validateform-warning:before,
+label.validateform-warning:not([for]):before {content:"»";display:inline-block;color:#980000;font-size:1.5em;line-height:1em;width:.8em;margin-left:-.8em}label.validateform-warning:not([for]) {color:#980000}input.validateform-warning,textarea.validateform-warning{border-color:#a13939;background-color:#ffe5e5}input.validateform-hp{display:none}
